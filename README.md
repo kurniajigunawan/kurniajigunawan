@@ -7,7 +7,7 @@ I'm Kurniaji, a Software Engineer based in Yogyakarta. I am actively doing resea
 
 ### 📕 &nbsp; Current Stats
 
-![Github Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kurniajigunawan&theme=rogue)
+![Github Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kurniajigunawan&theme=minimal)
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurniajigunawan&show_icons=true&theme=city_lights) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kurniajigunawan&theme=city-lights) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurniajigunawan&show_icons=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kurniajigunawan) |
 | :---: | :---: |
