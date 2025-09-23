@@ -10,5 +10,3 @@ I'm Kurniaji, a Software Engineer based in Yogyakarta. I am actively doing resea
 
 ![Github Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kurniajigunawan&theme=minimal)
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurniajigunawan&show_icons=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kurniajigunawan) |
-| :---: | :---: |
